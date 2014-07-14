@@ -1,0 +1,24 @@
+{
+  "name": "ff-auction-calc",
+  "version": "0.0.0",
+  "description": "re-calculates remaining player draft values for fantasy footbal based upon ppre-draft rankings according to actual draft values",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "sync-prompt": "^0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bchiatt/ff-auction-calc"
+  },
+  "author": "Brian Hiatt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bchiatt/ff-auction-calc/issues"
+  },
+  "homepage": "https://github.com/bchiatt/ff-auction-calc"
+}
