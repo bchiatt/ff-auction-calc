@@ -8,17 +8,11 @@
     "sync-prompt": "^0.4.1"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/bchiatt/ff-auction-calc"
   },
   "author": "Brian Hiatt",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bchiatt/ff-auction-calc/issues"
-  },
   "homepage": "https://github.com/bchiatt/ff-auction-calc"
 }
